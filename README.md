@@ -32,4 +32,4 @@ This dashboard provides a comprehensive overview of HR analytics data, offering 
 
 **Attrition Rate by Gender for Different Age Groups**: Radar chart comparing attrition rates for different age groups and genders.
 
-I have added Power BI Dashboard, Dashboard Image, and Dataset in the repository.
+This repositry contains Power BI Dashboard, Dashboard Image, and Dataset.
