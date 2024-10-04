@@ -14,6 +14,8 @@ This dashboard provides a comprehensive overview of HR analytics data, offering 
 
 **Average Age**: Average age of all employees.
 
+
+
 ***Data Visualization***:
 
 **Department-wise Attrition**: Pie chart showing the distribution of attrition across different departments.
